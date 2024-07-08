@@ -28,7 +28,3 @@ Once the server is running, you can access the application in your web browser a
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
