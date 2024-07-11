@@ -85,8 +85,6 @@ def chandoanBN(request):
     ketqua = None
     patient_id = request.session.get('patient_id', None)
     if request.method == 'POST':
-        # model = joblib.load('knn_model_Oversampling.pkl')
-        # model = joblib.load('logreg_model_SMOTE.pkl')
         model = joblib.load('logreg_model_SMOTE_73.pkl')
 
         # Lấy dữ liệu từ request.POST và chuyển đổi thành kiểu số
