@@ -28,3 +28,5 @@ Once the server is running, you can access the application in your web browser a
 ## Contributing
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
+
+© All Copyright 2024 by letanloc-tlooc
